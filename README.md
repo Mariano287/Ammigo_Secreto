@@ -10,7 +10,9 @@
 
 ### **Cómo se visualizan los participantes:**
 
-![Ingreso de participantes](https://github.com/user-attachments/assets/5d480274-7073-4c00-b195-e46563b4bfa6)
+![Ingreso de participantes]![image](https://github.com/user-attachments/assets/403a1ef4-f8cc-4f83-b8ab-a7426dff16ad)
+
+
 > En esta imagen se puede ver cómo se cargan los amigos y se visualizan debajo del cuadro de entrada.
 
 ### **Verificación del correcto ingreso de datos:**
