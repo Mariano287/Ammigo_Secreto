@@ -10,14 +10,18 @@
 
 ### **Cómo se visualizan los participantes:**
 
-![Ingreso de participantes]![image](https://github.com/user-attachments/assets/403a1ef4-f8cc-4f83-b8ab-a7426dff16ad)
+![Ingreso de participantes]!(https://github.com/user-attachments/assets/403a1ef4-f8cc-4f83-b8ab-a7426dff16ad)
 
 
 > En esta imagen se puede ver cómo se cargan los amigos y se visualizan debajo del cuadro de entrada.
 
 ### **Verificación del correcto ingreso de datos:**
 
-![Validación de datos](https://github.com/user-attachments/assets/40fadc9d-13df-4f62-ba3a-37fccee25462)
+![Validación de datos](https://github.com/user-attachments/assets/5fb7f2dd-8c9d-4472-a270-480de40b0966)
+
+
+
+
 > En esta imagen corroboramos si el sistema realiza correctamente el ingreso de la información.
 
 ---
@@ -38,7 +42,7 @@
 - **CSS**: Estilos para una presentación atractiva y adaptativa.
 - **JavaScript**: Lógica para manejar el sorteo y la validación de los participantes.
 
-![Tecnologías utilizadas](https://github.com/user-attachments/assets/7efb75b1-361f-4990-8a25-008b26987745)
+![Tecnologías utilizadas](https://github.com/user-attachments/assets/ac6afa3f-0ab9-4889-aa1f-c6145704edad)
 
 ---
 
