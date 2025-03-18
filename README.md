@@ -42,25 +42,29 @@
 
 ## 📥 Cómo Instalar y Usar
 
-1. **Clonar el Repositorio:**
+1. **Clona el Repositorio:**
+   Para comenzar, clona el proyecto en tu máquina local:
    ```bash
    git clone https://github.com/Mariano287/Amigo_Secreto.git
+2. Abre el Proyecto en el Navegador: Una vez clonado, abre el archivo index.html en tu navegador favorito para ver cómo funciona el proyecto.
 
-Licencia
+3. Agrega a tus Participantes: Ingresa los nombres de tus amigos en el cuadro de texto y presiona el botón "Realizar Sorteo" para asignar a cada uno su amigo secreto de manera aleatoria.
 
-libre.
-
-2. Abrir en el Navegador: Solo abre el archivo index.html en tu navegador para ver el proyecto en acción.
-
-3. Agregar Participantes: Ingresa los nombres de tus amigos en el cuadro de texto y haz clic en "Realizar Sorteo" para asignar los amigos secretos.
+📜 **Licencia**
+Este proyecto es completamente libre. Puedes usarlo, modificarlo y compartirlo como desees.
 
 🤝 **Contribuciones**
-Si deseas contribuir al proyecto:
+Si te gustaría aportar mejoras al proyecto, ¡te damos la bienvenida! Aquí te dejamos los pasos para contribuir:
 
-Haz un fork del proyecto.
-Crea una rama con tus mejoras: git checkout -b feature/tu-mejora.
-Haz commit de tus cambios: git commit -am 'Añadí una nueva característica'.
-Haz push a tu rama: git push origin feature/tu-mejora.
-Envía un pull request para que revisemos tus cambios.
+* Haz un fork del proyecto.
+* Crea una rama con tus cambios:
+
+ git checkout -b feature/tu-mejora
+**Realiza un commit con tus modificaciones:**
+
+git commit -am 'Añadí una nueva característica'
+**Empuja tus cambios a tu rama:**
+git push origin feature/tu-mejora
+**Envía un pull request para que podamos revisar tus cambios.**
 👤 Autor
 Barboza Mariano Marcelo
