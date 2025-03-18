@@ -10,7 +10,7 @@
 
 ### **Cómo se visualizan los participantes:**
 
-![Ingreso de participantes]!(https://github.com/user-attachments/assets/403a1ef4-f8cc-4f83-b8ab-a7426dff16ad)
+![Ingreso de participantes](https://github.com/user-attachments/assets/403a1ef4-f8cc-4f83-b8ab-a7426dff16ad)
 
 
 > En esta imagen se puede ver cómo se cargan los amigos y se visualizan debajo del cuadro de entrada.
@@ -44,6 +44,7 @@
 
 ![Tecnologías utilizadas](https://github.com/user-attachments/assets/ac6afa3f-0ab9-4889-aa1f-c6145704edad)
 
+> En esta imagen corroboramos que se realice correctamente el sorteo
 ---
 
 ## 📥 Cómo Instalar y Usar
