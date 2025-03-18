@@ -53,6 +53,7 @@
    Para comenzar, clona el proyecto en tu máquina local:
    ```bash
    git clone https://github.com/Mariano287/Amigo_Secreto.git
+   
 2. Abre el Proyecto en el Navegador: Una vez clonado, abre el archivo index.html en tu navegador favorito para ver cómo funciona el proyecto.
 
 3. Agrega a tus Participantes: Ingresa los nombres de tus amigos en el cuadro de texto y presiona el botón "Realizar Sorteo" para asignar a cada uno su amigo secreto de manera aleatoria.
@@ -67,11 +68,15 @@ Si te gustaría aportar mejoras al proyecto, ¡te damos la bienvenida! Aquí te 
 * Crea una rama con tus cambios:
 
  git checkout -b feature/tu-mejora
+ 
 **Realiza un commit con tus modificaciones:**
 
 git commit -am 'Añadí una nueva característica'
+
 **Empuja tus cambios a tu rama:**
+
 git push origin feature/tu-mejora
+
 **Envía un pull request para que podamos revisar tus cambios.**
 👤 Autor
 Barboza Mariano Marcelo
